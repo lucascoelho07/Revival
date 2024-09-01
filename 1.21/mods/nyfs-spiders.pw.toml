@@ -1,0 +1,13 @@
+name = "Nyf's Spiders"
+filename = "nyfsspiders-fabric-1.21-2.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dOGM7ccu/versions/XrZVRpEA/nyfsspiders-fabric-1.21-2.3.1.jar"
+hash-format = "sha512"
+hash = "8e62d8420634c985e849b1fb16db3d7702123c02727471db0049db06a7fb873452e4526b083d865ffd49be2deac0c787080262772d8fed73adaf991b69a9b319"
+
+[update]
+[update.modrinth]
+mod-id = "dOGM7ccu"
+version = "XrZVRpEA"

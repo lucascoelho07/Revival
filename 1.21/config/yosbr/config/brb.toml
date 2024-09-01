@@ -1,0 +1,5 @@
+settingsButton = false
+
+[newRecipes]
+unlockAll = false
+enableBounce = true

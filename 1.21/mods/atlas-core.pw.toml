@@ -1,0 +1,13 @@
+name = "Atlas Core"
+filename = "atlas-core-1.1.1-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sNPvBBA2/versions/lUcFZmxB/atlas-core-1.1.1-1.21.jar"
+hash-format = "sha512"
+hash = "f863ac5e55aacf5b11a44c1588f707fc42aa528f8603c1fe0bf373c978b9092155839ef471e87c3a801be596b222e4f9e115fd8f405ac080dcb9b6d24ca55a02"
+
+[update]
+[update.modrinth]
+mod-id = "sNPvBBA2"
+version = "lUcFZmxB"

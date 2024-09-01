@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "vanilla",
+    "fabric",
+    "minecraft:supporteatinganimation",
+    "presencefootsteps:default_sound_pack",
+    "Fabrication",
+    "Fabrication grayscale",
+    "file/SodiumTranslations.zip",
+    "Moonlight Mods Dynamic Assets",
+    "file/Chat Reporting Helper.zip",
+    "file/VanillaTweaks_r977177_MC1.21.x.zip",
+    "file/VanillaLootChests.zip",
+    "file/MoreReadableSettings.zip",
+    "file/FreshAnimations_v1.9.2.zip",
+    "file/MoreMobVariants_FreshAnimations_1.3.1-1.9.2.zip",
+    "file/FA+Objects-v1.1.zip",
+    "file/FA+Emissive-v1.2.zip",
+    "file/Expressive Fresh Moves v3.0.1.zip",
+    "file/EnderEyes_1.21_v3.1.zip",
+    "file/EmbellishedStone-1.20.1-1.0.0.zip",
+    "file/Foliage Variation for 1.21.zip",
+    "file/Crop Variation for 1.21.zip",
+    "file/Better Head Holding 1.20.zip",
+    "file/Banner Pattern Clarity v1.5 pf8-34.zip",
+    "highlight:highlight_extended",
+    "continuity:default",
+    "file/xali's Potions v1.0.0.zip",
+    "file/EBE_1.20.x_v1.1.zip",
+    "file/Overlay`s1.21.zip",
+    "file/Ore Variants v2.9.zip",
+    "file/Default-Dark-Mode-1.20.2+-2024.6.0.zip"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "1": [
+      "vanilla",
+      "fabric",
+      "minecraft:supporteatinganimation",
+      "presencefootsteps:default_sound_pack",
+      "Fabrication",
+      "Fabrication grayscale",
+      "file/SodiumTranslations.zip",
+      "Moonlight Mods Dynamic Assets"
+    ],
+    "$$1": {
+      "hidden": true,
+      "required": true
+    }
+  }
+}

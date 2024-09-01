@@ -1,0 +1,13 @@
+name = "Better Boat Movement"
+filename = "better-boat-movement-2.2.0-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wTfH1dkt/versions/eHAOWXg9/better-boat-movement-2.2.0-1.21.jar"
+hash-format = "sha512"
+hash = "907ceb8b204c79ebbb908952902d60ae736c0f3db2960e2dd07d87d7d387a1649d1a3d4260fde0c49d74b1914934d3522dd2f5aaee7a3cd62a14236cb4fd7961"
+
+[update]
+[update.modrinth]
+mod-id = "wTfH1dkt"
+version = "eHAOWXg9"

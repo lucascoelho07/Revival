@@ -1,0 +1,11 @@
+{
+  "count_libraries": false,
+  "count_children": false,
+  "mods_button_style": "shrink",
+  "game_menu_button_style": "replace_bugs",
+  "count_hidden_mods": false,
+  "mod_count_location": "title_screen",
+  "show_libraries": false,
+  "update_checker": false,
+  "button_update_badge": false
+}

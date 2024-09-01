@@ -1,0 +1,13 @@
+name = "Better Head Holding"
+filename = "Better Head Holding 1.20.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/umGMT7Ze/versions/UoSi95BP/Better%20Head%20Holding%201.20.zip"
+hash-format = "sha512"
+hash = "fd8b4b6e5e03c7111ec23f67cd20ccb00fca30ffc5d13b4bb53fb96277f182493c41c4d933aea9cf178d5e3573aab2080d6277cb028e0bc25ed38351ddb74b13"
+
+[update]
+[update.modrinth]
+mod-id = "umGMT7Ze"
+version = "UoSi95BP"

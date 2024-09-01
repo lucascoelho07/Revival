@@ -1,0 +1,138 @@
+
+[Atlases]
+	Enabled = false
+
+[Beekeepers]
+	Enabled = false
+
+[Chairs]
+	Enabled = false
+
+[CookingPots]
+	Enabled = false
+
+[CraftingFromInventory]
+	Enabled = false
+
+[ItemRestocking]
+	Enabled = false
+
+[ItemStacking]
+	#Allows some unstackable items to stack.
+	Enabled = true
+	#Enchanted book maximum stack size.
+	"Enchanted book" = 16
+	#Potion maximum stack size.
+	Potion = 16
+	#Splash potion maximum stack size.
+	"Splash potion" = 1
+	#Lingering potion maximum stack size.
+	"Lingering potion" = 1
+	#Stew (and beetroot soup) maximum stack size.
+	Stew = 64
+	#Suspicious stew maximum stack size.
+	"Suspicious stew" = 1
+
+[ItemTidying]
+	Enabled = false
+
+[MobDrops]
+	#Some mobs have a chance to drop additional items either by chance or when killed.
+	Enabled = true
+
+	[MobDrops.CaveSpiderDrops]
+		#Cave spiders have a chance to drop cobwebs when killed.
+		Enabled = true
+		#Maximum cobwebs dropped when a cave spider is killed.
+		"Maximum cobweb drops" = 2
+
+	[MobDrops.ChickenDrops]
+		#Chickens occasionally shed a feather.
+		Enabled = true
+		#1 in X chance of a chicken dropping a feather, per game tick.
+		"Feather drop chance" = 5000
+
+	[MobDrops.GoatDrops]
+		#Goats have a chance to drop mutton when killed.
+		Enabled = true
+		#Maximum pieces of mutton dropped when a goat is killed.
+		"Maximum mutton drops" = 2
+
+	[MobDrops.HuskDrops]
+		#Husks have a chance to drop sand when killed.
+		Enabled = true
+		#Maximum sand blocks dropped when a husk is killed.
+		"Maximum sand drops" = 2
+
+	[MobDrops.WitchDrops]
+		#Witches have a chance to drop a Potion of Luck when killed.
+		Enabled = true
+		#Chance (out of 1.0) of a witch dropping a Potion of Luck when killed.
+		"Potion of Luck drop chance" = 0.05
+
+[Mooblooms]
+	Enabled = true
+
+[RecipeImprovements]
+	Enabled = true
+	"Ore block from raw ore block" = false
+	"Gilded Blackstone" = true
+	"Cyan Dye from warped roots" = true
+	"Green Dye from yellow and blue" = true
+	"Snowballs from snow blocks" = true
+	"Quartz from quartz blocks" = false
+	"Clay balls from clay blocks" = true
+	"Simpler Soul Torch" = false
+
+	[RecipeImprovements.BundlesFromLeather]
+		Enabled = true
+
+	[RecipeImprovements.RecipeUnlocking]
+		Enabled = false
+
+	[RecipeImprovements.ShapelessRecipes]
+		Enabled = true
+		"Shapeless bread" = true
+		"Shapeless paper" = true
+
+[ShulkerBoxTransferring]
+	Enabled = false
+
+[Silence]
+	Enabled = true
+	"Disable chat message verification dialog" = true
+	"Disable experimental screen dialog" = true
+	"Disable telemetry" = true
+	"Downgrade data fixer registered error" = true
+	"Disable development mode connections" = true
+
+[TotemOfPreserving]
+	Enabled = false
+	"Grave mode" = false
+	Durability = 3
+	"Owner only" = false
+	"Show death position" = false
+
+[TotemsWorkFromInventory]
+	Enabled = false
+
+[TradeImprovements]
+	Enabled = true
+	"Enchanted books" = true
+	"Repaired anvils" = true
+	"Leather for rotten flesh" = true
+	"Beef for rotten flesh" = true
+	Bundles = true
+	"Phantom membrane" = true
+	"Charm mod items" = true
+
+[VillagerAttracting]
+	Enabled = false
+
+[Waypoints]
+	Enabled = false
+	"Broadcast distance" = 200
+	"Message duration" = 20
+	"Show nearest waypoint on compass" = true
+
+

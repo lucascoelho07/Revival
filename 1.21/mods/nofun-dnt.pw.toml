@@ -1,0 +1,13 @@
+name = "NoFun DnT"
+filename = "nofun-dnt-v1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wRQJjUEa/versions/4v2DjT8Q/nofun-dnt-v1.0.jar"
+hash-format = "sha512"
+hash = "6daa6468a84aebdc39530a8018a882718d02936e3b7c62ff71ff9802e245d17b84c123870fbe741784f7901678a95254a860e7b184d2ccd0c01d9e63401a84ed"
+
+[update]
+[update.modrinth]
+mod-id = "wRQJjUEa"
+version = "4v2DjT8Q"

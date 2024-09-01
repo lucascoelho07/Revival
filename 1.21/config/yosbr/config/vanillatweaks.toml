@@ -1,0 +1,29 @@
+[content]
+enableFriedEgg = false
+enableDynamite = false
+enableStorageBlocks = false
+[enchanting]
+enableBlazing = true
+enableHops = false
+enableNimble = false
+enableSiphon = false
+enableVeteran = false
+enableVigor = false
+enableHoming = false
+[tweaks]
+babyZombieBurnInDaylight = false
+creeperBurnInDaylight = false
+shearOffNameTag = false
+hoeActsAsSickle = false
+tntIgnition = false
+enableSilkSpawner = false
+[world]
+realisticRelationship = false
+disableLavaPockets = true
+selfPlanting = false
+[recipe]
+betterChestRecipe = false
+betterRepeater = false
+betterTrappedChestRecipe = false
+woolToString = false
+nameTag = false

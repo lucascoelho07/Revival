@@ -1,0 +1,13 @@
+name = "Overlay`s"
+filename = "Overlay`s1.21.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1PGegzf5/versions/6GYLO0ph/Overlay%60s1.21.zip"
+hash-format = "sha512"
+hash = "58e4209e053c5eda4980c3beeb63b58d20e42b4e58ff490acc878812200389b0ab63acd76153659b654c33a7704665530c6608f15d98e046dee80a8c7b40500b"
+
+[update]
+[update.modrinth]
+mod-id = "1PGegzf5"
+version = "6GYLO0ph"

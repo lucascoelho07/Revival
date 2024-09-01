@@ -1,0 +1,16 @@
+name = "Revival 1.21"
+author = "TheCoelho"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b989cf0600922341bff92fe6df224035ba3f9a536a94e0a532856cb2bf98221e"
+
+[versions]
+fabric = "0.16.3"
+minecraft = "1.21"
+
+[options]
+acceptable-game-versions = []

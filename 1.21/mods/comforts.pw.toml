@@ -1,0 +1,13 @@
+name = "Comforts"
+filename = "comforts-fabric-9.0.0+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SaCpeal4/versions/hDG8neIB/comforts-fabric-9.0.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "182647d93d93d2743cb3e6b92a4df8c9eef7081dff63549126217257e53be8c95a74884db4d3d8f2ebcf908b633e97d71ca8ecee5b039d38ac97ee0a4d23da5a"
+
+[update]
+[update.modrinth]
+mod-id = "SaCpeal4"
+version = "hDG8neIB"
