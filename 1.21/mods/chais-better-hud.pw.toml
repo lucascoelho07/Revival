@@ -1,0 +1,13 @@
+name = "Chai's Better HUD"
+filename = "better_hud-1.0.2+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/umHYtjFA/versions/WhKjemkw/better_hud-1.0.2%2B1.21.jar"
+hash-format = "sha512"
+hash = "15e014ab98d579f7226623a29d0da197c225e31f9afbacfd6c7160e096bed2d9d71446d4be1773eea3ab243fe61ca9b4c9578df311793c5aa51de94249bcd339"
+
+[update]
+[update.modrinth]
+mod-id = "umHYtjFA"
+version = "WhKjemkw"

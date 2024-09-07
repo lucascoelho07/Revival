@@ -201,6 +201,11 @@ hash = "9329663d157d0dfa1c9a5a4c5ccad1d1c5042759527ce503ed46804fe1c357f3"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "fbadcc8cd29570bcdf62126f5dd0350ba9e3fd20ad1c3bcfc41be3909809ea66"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "ff31791271197f8122fb52893e7e67d86ba038dd0e77e57227ef84de8f7e069e"
 metafile = true
@@ -311,6 +316,11 @@ hash = "a059d2d23cd47fe2e698f06826a1053a39599f74fb1b739c622754630f90086c"
 metafile = true
 
 [[files]]
+file = "mods/chais-better-hud.pw.toml"
+hash = "940a2b041534233ff796bf38277c4fac4b6a5ff725aa4d64bfc93986af285013"
+metafile = true
+
+[[files]]
 file = "mods/charm.pw.toml"
 hash = "8ce142c4535288ca17820023665a98d023a2b5deef01c185343c41487c9b5cb3"
 metafile = true
@@ -328,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "ef92289630ec01f98d2039fe46a31e2d086b21e9f815ee996d144bcf66838e65"
+metafile = true
+
+[[files]]
+file = "mods/cherry-on-top.pw.toml"
+hash = "2c6bbaddfb662890046ac3246ac1f5a28d70956e2478a5e33c01c7e5d55228d2"
 metafile = true
 
 [[files]]
@@ -398,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/cycle-paintings.pw.toml"
 hash = "956407965fc2766788b8e2ee8fd50dd9b87fd01b94f8c312149cbeb06f4c1508"
+metafile = true
+
+[[files]]
+file = "mods/dcwa.pw.toml"
+hash = "4ab83564a6e16a9b61b13b05e7f13d86ac05069a4b45b678eb0f3b6a66b460d0"
 metafile = true
 
 [[files]]
@@ -508,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "7167d442d5704438f8491ba69efa1c92d5719370bf63eea2c94ef4e12fbf6265"
+metafile = true
+
+[[files]]
+file = "mods/firorize.pw.toml"
+hash = "1906a586ad1aa651be6e1c256a53c65559859ca915d1233589cbfbc982896df3"
 metafile = true
 
 [[files]]
@@ -751,8 +776,18 @@ hash = "a8e7b67fff22473839f2fbdbcdab78505e075774becfb0f5f589ee5f2f351d04"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "38699a8b27c4be66b7ea28cee7a411d3fddc7450af4ae31b2579df1c1945479c"
+metafile = true
+
+[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "110132a70b524eaadb750bc110c9344d84432da97a5434ae185e815d778d21f0"
+metafile = true
+
+[[files]]
+file = "mods/particular.pw.toml"
+hash = "7d44aac0137dc9ca5de82b350e1e2602db35f599874627477a42d6e64e6b9403"
 metafile = true
 
 [[files]]
@@ -846,6 +881,11 @@ hash = "681a37e653b880adac9d5b42ed9d237647a1292f1245f661d036727ece9b75e4"
 metafile = true
 
 [[files]]
+file = "mods/simple-netherite-horse-armor.pw.toml"
+hash = "02845c4794b9bfc924d6a2b0b130e6f1a93ddc07a7bce6c19e008d29002f995e"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "2fb9b677ce7c03d18fcf9bd6bd817b68028bbd3bbf444f462a1884df038bccfd"
 metafile = true
@@ -918,6 +958,16 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "5afa351b0c8e379990b962af499f90b124a4c79fc86f8f3dc3ef716a472e766e"
+metafile = true
+
+[[files]]
+file = "mods/trimmable-tools.pw.toml"
+hash = "4503455481f485b78141d2f4a0120439d8547fe09be4c67b2a60175d101356e2"
+metafile = true
+
+[[files]]
+file = "mods/unloaded-activity.pw.toml"
+hash = "73468a258a4bbfadc20d17511846b87e76a163e475330e052a0b0a8425f61a29"
 metafile = true
 
 [[files]]
@@ -1046,7 +1096,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/gurkis-texture-variations.pw.toml"
-hash = "c6ff28d8c5d34d239036669378fd9fb669ca68906e5dc8823b9abf1dd74e69b3"
+hash = "75a96b234a171c299145a2a0a809fa71a9b4df583ed2100fd1cb8e4597f41e58"
 metafile = true
 
 [[files]]
