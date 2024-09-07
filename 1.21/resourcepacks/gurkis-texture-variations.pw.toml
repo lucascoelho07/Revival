@@ -1,13 +1,8 @@
 name = "Gurkis Texture Variations"
-filename = "GurkisTextureVariations-UNZIP-ME.zip"
+filename = "Crop Variation for 1.21.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/vigNPZYt/versions/vDFaAIJf/GurkisTextureVariations-UNZIP-ME.zip"
+url = "https://cdn.modrinth.com/data/vigNPZYt/versions/TzYfaAC4/Crop%20Variation%20for%201.21.zip"
 hash-format = "sha512"
-hash = "18c977daa51336794dfe31f1ab398c22629b91fdacc10d6feac2e7bcf28f64230ac3c6c4bab31fa78b01fc5afb1acf365a35c858006ead3c63d0b11be12cc416"
-
-[update]
-[update.modrinth]
-mod-id = "vigNPZYt"
-version = "vDFaAIJf"
+hash = "e47c0a4dcfd8b09003b0748e9c96f15e7d411d7fac0fa35d495966f90f146a4d4c21ecf9a7b44dc221d954639d068b91b366662b0f9d396c5119a13fde92b530"
