@@ -350,6 +350,11 @@ hash = "524269c952a7d09a0f8c83c0e865d42f65cb7b2f62aae9bc181deec78ef7b520"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "6314ecd4ec33177a193d41e44ff552d12bf6cdb72959d81ecd691b8688735a19"
+metafile = true
+
+[[files]]
 file = "mods/clean-tooltips.pw.toml"
 hash = "5c731555f0463ce309d98128c69d956f0721b80aea8a47a45283e6f06d7c1db9"
 metafile = true
@@ -402,11 +407,6 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "84de3cd780d9b310e855a6977b6b432b6ab5cb1da8a0c557341825ba31697af2"
-metafile = true
-
-[[files]]
-file = "mods/cull-less-leaves.pw.toml"
-hash = "9533bf5a38bb96fe67df246f0c2ac5ce26604c375bfc069487a715e44fabecb9"
 metafile = true
 
 [[files]]
@@ -750,11 +750,6 @@ hash = "51184f4b5c406dd2df58a8e2af3607baa5aca057d9e226f43294861d9b101531"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "689a6b882d654811647fa99eaaa5d5d0c089281846a1fcf1d6242cd18063569e"
-metafile = true
-
-[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "2e2a377bac55e1707df3f9b1707c0c07eb181df4c7ceb841b1a796b323f8a05b"
 metafile = true
@@ -886,7 +881,7 @@ metafile = true
 
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
-hash = "0d6a2956a81afad3b233e45cdb40abcfeaa18e8b060a0b57d6ad87f67148f97b"
+hash = "36f2059e72cb71b846dcae69782c2c6413499776e8c3d325f6ea396417e31bad"
 metafile = true
 
 [[files]]
@@ -1125,12 +1120,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/tras-fresh-player.pw.toml"
-hash = "22b2b0d1b3a50a0e26f3f24c98d58e6f8558d9cb8e4553beb34eb5aadec40ade"
-metafile = true
-
-[[files]]
-file = "resourcepacks/vanilla-loot-chests.pw.toml"
-hash = "167564ef44f2f01effb797a73792eccbfc241c22b2c07befed472bc1fed0e982"
+hash = "60032d79343a2a2cd4a27cb00b6ae2574f12773b6985e1261b2e938c92440779"
 metafile = true
 
 [[files]]
