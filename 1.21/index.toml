@@ -113,6 +113,10 @@ file = "config/yosbr/config/inventorymanagement.toml"
 hash = "a56a1a6c28b95db3ca2a79c36addd3a7ac332661e7eb6a7165d9534ac3fae9d7"
 
 [[files]]
+file = "config/yosbr/config/jsonpatcher.json"
+hash = "b3ef5cf0095d4b83b8a6130cc534574d7eb36e7f5c2375fedfe9395d95566445"
+
+[[files]]
 file = "config/yosbr/config/leawind_third_person.json"
 hash = "1d6fd630a81019f7c98efd84dc3ec32b4ec9b8cb67e0ae234007e2e591b15d18"
 
@@ -562,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "b4a588ba6bc6472ec0d74838aff357fb8c48cdc73ff166e27bad5a24ad97188d"
+hash = "e53de02f0a8dc671a270a2cff3da1b571289ab4b4f45c1d1444dfb36e19054bd"
 metafile = true
 
 [[files]]
