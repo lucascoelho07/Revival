@@ -1,6 +1,6 @@
 name = "IndyPets - Independent Pets"
 filename = "indypets-1.4.0-1.21.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/SVJhmJvx/versions/vpL7XjEN/indypets-1.4.0-1.21.jar"
