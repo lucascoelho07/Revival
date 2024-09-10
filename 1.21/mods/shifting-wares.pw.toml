@@ -1,6 +1,6 @@
 name = "Shifting Wares"
 filename = "shifting-wares-2.2.2+1.21.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jD7tenmB/versions/Q7j4e2dP/shifting-wares-2.2.2%2B1.21.jar"
