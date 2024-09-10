@@ -1,6 +1,6 @@
 name = "Creative One-Punch"
 filename = "CreativeOnePunch-1.4-universal.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7T4TeOKj/versions/xgUyGebr/CreativeOnePunch-1.4-universal.jar"
