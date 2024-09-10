@@ -1,6 +1,6 @@
 name = "Linkart"
 filename = "Linkart-5.4.5-1.20.6-build.29.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/sc4Mu9Zu/versions/KkB5NDDW/Linkart-5.4.5-1.20.6-build.29.jar"
