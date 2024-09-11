@@ -1,6 +1,7 @@
 name = "Better Head Holding"
 filename = "Better Head Holding 1.20.zip"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/umGMT7Ze/versions/UoSi95BP/Better%20Head%20Holding%201.20.zip"
