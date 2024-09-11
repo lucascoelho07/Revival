@@ -1070,12 +1070,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions-emissive.pw.toml"
-hash = "ec4bca39a65473acd21ea9f264a6049e521e85e0b735722e2262b97ff13e5019"
+hash = "40c093ee8e4adc7776041e280bd164e14ff4886c9777062e7d7b219f33fb66bd"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions-objects.pw.toml"
-hash = "4d493cd0a78457d1a8b407c1e582134ff9848922977b97c7cdf474011e61301d"
+hash = "0ab3eda79e27175578057fdf4f0c306f2b4702806f62a0246851e603c90b4398"
 metafile = true
 
 [[files]]
@@ -1120,7 +1120,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/tras-fresh-player.pw.toml"
-hash = "60032d79343a2a2cd4a27cb00b6ae2574f12773b6985e1261b2e938c92440779"
+hash = "4095aa55da2aa2c5ffd785502e36d74778c1b4c2b39bc97b0960c4e20a45d639"
 metafile = true
 
 [[files]]
