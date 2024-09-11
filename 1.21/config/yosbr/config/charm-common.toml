@@ -5,6 +5,9 @@
 [Beekeepers]
 	Enabled = false
 
+[Casks]
+	Enabled = false
+
 [Chairs]
 	Enabled = false
 
