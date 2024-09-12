@@ -42,7 +42,7 @@ hash = "e54fd955cefde4b34135619914566015539e14d345c7b4d03f73ef1c54213c62"
 
 [[files]]
 file = "config/yosbr/config/charm-common.toml"
-hash = "eb863a4b94b94f14e0447da84d2f4ea9a6691baeab38f887a4de51ec9e379f9e"
+hash = "06c0a6911848409d67648da128f4f560598b3d8056005a02b81aec8fddca9347"
 
 [[files]]
 file = "config/yosbr/config/chunksfadein.properties"
@@ -179,10 +179,6 @@ hash = "5687515ee841363ebf3cb869c7d6de39c17630452a686d7ba79459af888b6e80"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "a9e871d7807cafd8e3032d60373ec507a9c0f9421497fb3a68aeb7130520d10d"
-
-[[files]]
-file = "datapacks/required/lootr-noadvancements.zip"
-hash = "1eb47bdedacacedda127c990637ebe55d208faa040a414e1095dba593fe2c05f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1132,7 +1128,3 @@ metafile = true
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "40f83616a61e0af5e807e2ef1df03958e65234d82d2ac310d9c21fd82205df02"
 metafile = true
-
-[[files]]
-file = "texto.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
