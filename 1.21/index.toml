@@ -316,9 +316,8 @@ hash = "940a2b041534233ff796bf38277c4fac4b6a5ff725aa4d64bfc93986af285013"
 metafile = true
 
 [[files]]
-file = "mods/charm.pw.toml"
-hash = "8ce142c4535288ca17820023665a98d023a2b5deef01c185343c41487c9b5cb3"
-metafile = true
+file = "mods/charm-fabric-1.21-7.0.34.jar"
+hash = "ca8970c822c79ed307bff4118d7f09b5414d3ab09bd9c1cd606e4dbd079b809d"
 
 [[files]]
 file = "mods/charmonium.pw.toml"
