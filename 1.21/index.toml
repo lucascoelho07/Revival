@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-boat-movement.pw.toml"
-hash = "2b65962934fb80fbcf7464e7787e62139984bf93a24396f624f7a16d40c18a5f"
+hash = "eac30dc63be182a5373d3793aa1b09bf6d271514bc21b5a21e1ea9b29456811e"
 metafile = true
 
 [[files]]
@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "31b55f7a4ff9554d255abd9697022752569021550ca0e3be18ccc63e8a87f615"
+hash = "2a25f8f8df18c2416c03a3655ae918cecb427d389ea7f81fc188e5778ec3f0aa"
 metafile = true
 
 [[files]]
@@ -476,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "e9fdd32c16e364850b2413217ab0ab4b2e8c0cea6a473c8f90f379b82dd2105e"
+hash = "9591a0c8db485afc5d2fb9ac091c46e0a95387af80b15e39892276283a210f38"
 metafile = true
 
 [[files]]
@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "7586887574ce8612893eeb6e9fc198d03f21a491ec3cc1a40c89c4d163e0a603"
+hash = "60c41c12194921098ad378d6d3c41d027a7691b008f314642f6a262d3a4bb040"
 metafile = true
 
 [[files]]
@@ -781,7 +781,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "2b35b5f8baa80052c753b8969d5d59a117df7de3bf3036d12e636915665e5190"
+hash = "4ce604f5e72f0882ba1e2d50d5a302f89e9e48da2dfe5600edf7bd4192e8d0b1"
 metafile = true
 
 [[files]]
@@ -871,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2fb9b677ce7c03d18fcf9bd6bd817b68028bbd3bbf444f462a1884df038bccfd"
+hash = "4589a97011fcd472b68c4586bec5f40e464f4ed775cfc78e45fc6052adf9a4c7"
 metafile = true
 
 [[files]]
@@ -946,7 +946,7 @@ metafile = true
 
 [[files]]
 file = "mods/trimmable-tools.pw.toml"
-hash = "4503455481f485b78141d2f4a0120439d8547fe09be4c67b2a60175d101356e2"
+hash = "7ccf0c63c577e7cd9985a4895b1e6cadf1d23481b3048018a4f57fd706aa2317"
 metafile = true
 
 [[files]]
