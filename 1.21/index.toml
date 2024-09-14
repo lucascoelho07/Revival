@@ -395,6 +395,11 @@ hash = "23a1e8f9c03e9628cf1bb69dca7d2a6ea5e80d6a31636aa421647ba1fac7949d"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "455d633469dbcd76deca1297e4db65322e66fefe62b2df5a1752e027384b7c3b"
+metafile = true
+
+[[files]]
 file = "mods/creative-one-punch.pw.toml"
 hash = "4dfaa94a2cdbd790a75dfd72c2831de2d6006ac07d6a168a7d03da1766cda1eb"
 metafile = true
@@ -992,6 +997,11 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "25a2d303e9492184707633a0a8e52b468eeeb17bbffe56e1b2a6d4e13ebbc3f2"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "935be1426f9fd50cf30a6953142eb490cb4b445e1739d5552d074828b69e2ba6"
 metafile = true
 
 [[files]]
