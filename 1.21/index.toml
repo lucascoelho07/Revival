@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "12ddbc562512df615cfde161a2c159d1e488f8b52e29364b3cd82ff006361575"
+hash = "3104447bc7715100540efb1760de760de3ab600ed139ddd7c48b23c117da3dbe"
 metafile = true
 
 [[files]]
@@ -476,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "9591a0c8db485afc5d2fb9ac091c46e0a95387af80b15e39892276283a210f38"
+hash = "14e62b9300da0d8a8cf5a39bb2ceb9960e8522be3cd6e9f5851550ed3345473d"
 metafile = true
 
 [[files]]
@@ -761,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "38699a8b27c4be66b7ea28cee7a411d3fddc7450af4ae31b2579df1c1945479c"
+hash = "1aed9fb64eb4538b4c4d0b97b0b210cfae409028253726b591ecf764617b053b"
 metafile = true
 
 [[files]]
@@ -856,12 +856,12 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "a92b157af42827b4237720f20ccbcf826bc55a017f5c19f895cb8cbf8a11e680"
+hash = "e2c0fec2b07483d45843df6f3a0d639dd6c16793215e1b4fdb9259ce82343386"
 metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "681a37e653b880adac9d5b42ed9d237647a1292f1245f661d036727ece9b75e4"
+hash = "594d1709bfd4fab315886b7c31603e3891dbf6ef96ac075a48e7250c4109a06d"
 metafile = true
 
 [[files]]
@@ -996,7 +996,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "84a128aced128c034f8d9c979700da8f1f8f4bc0509cd8375798d9dfc92c2d09"
+hash = "a837d354fb42af129a4faecd8fa31a99c94e017f057ff0b73d6e623570576edb"
 metafile = true
 
 [[files]]
@@ -1060,7 +1060,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
-hash = "c787950c5bdbff78bc2ef218554f1486fc81f747d7abd4a29fba5286229b225a"
+hash = "590d63ddd680c1a9ce96945cec48c1b1dca146090003c850cf7a9cb855452699"
 metafile = true
 
 [[files]]
@@ -1110,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "ed19f85e6b55a0b1dddc39ae1bcbd58df9c8d5a2102f9e263fb4543b0af49db8"
+hash = "c79db5b1bf80fbe510b33ea2b6b009df52953547cb2920d67191e54d5b89127d"
 metafile = true
 
 [[files]]

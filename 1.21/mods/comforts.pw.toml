@@ -1,13 +1,13 @@
 name = "Comforts"
-filename = "comforts-fabric-9.0.0+1.21.jar"
+filename = "comforts-fabric-9.0.2+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SaCpeal4/versions/hDG8neIB/comforts-fabric-9.0.0%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/SaCpeal4/versions/JRpmvL81/comforts-fabric-9.0.2%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "182647d93d93d2743cb3e6b92a4df8c9eef7081dff63549126217257e53be8c95a74884db4d3d8f2ebcf908b633e97d71ca8ecee5b039d38ac97ee0a4d23da5a"
+hash = "c8c575c5395bcf64cfaefa0f28f0ec6081b540cf4811d8a8fe07686226c8d3dd770f46ae81c709b4c9833910495bd061ca957dc357579f7ba6825520740caab8"
 
 [update]
 [update.modrinth]
 mod-id = "SaCpeal4"
-version = "hDG8neIB"
+version = "JRpmvL81"
