@@ -1,0 +1,55 @@
+{
+	"enchantmentUpgrading": {
+		"enableEnchantmentUpgrading": false,
+	},
+	"whetstone": {
+		"enableWhetstone": false
+	},
+	"enderBackpack": {
+		"enableEnderBackpack": false
+	},
+	"teleportationPotions": {
+		"enablePotionOfWormhole": false,
+		"enablePotionOfTeleportation": false,
+	},
+	"infoOverlays": {
+		"enableCompassOverlay": false,
+		"enableClockOverlay": false,
+	},
+	"phantomSpawningRework": {
+		"enablePhantomSpawningRework": true,
+		"phantomSpawnStartHeight": 128,
+		"phantomSpawnFrequency": "59+rand(60)",
+		"repelPhantomsWithDefinedItems": true,
+		"phantomRepellentItems": [
+			"minecraft:phantom_membrane"
+		]
+	},
+	"deathImprovements": {
+		"noItemSplatterOnDeath": true,
+		"noDeathItemDespawn": true,
+	},
+	"anvilImprovements": {
+		"modifyDegradationChance": false,
+		"freeUnenchantedRepairs": true,
+		"freeRenames": true,
+		"noTooExpensive": false,
+		"noPriorWorkCost": false
+	},
+	"enchantedBookLootImprovements": {
+		"enableEnchantedBookLootImprovements": false,
+	},
+	"musicDiscLoot": {
+		"enableMusicDiscLoot": false,
+		"remove13AndCatLootEntries": false
+	},
+	"glowstoneDustRecipe": false,
+	"infinityMendingCompatible": false,
+	"soulSpeedNoDamage": false,
+	"disableShulkerDuplication": false,
+	"disablePillagerPatrols": false,
+	"disableNightVision": false,
+	"riptideWorksOnlyInWater": false,
+	"hideDebugInfoInSurvival": false,
+	"disableDoubleTapSprint": false
+}

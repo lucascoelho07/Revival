@@ -1,3 +1,4 @@
 {
-  "yawDeltaRollFactor": 0.0
+  "yawDeltaRollFactor": 0.0,
+  "verticalVelocityPitchFactor": 1.0
 }

@@ -13,10 +13,6 @@ file = "config/yosbr/config/bedrockify/bedrockifyCommon.json"
 hash = "acadbc27ce5aa208cfd578f8a9f16d0393532c0a46ece12be90daecddcddb3c5"
 
 [[files]]
-file = "config/yosbr/config/better-boat-movement.json"
-hash = "6dabc8939717767a178cf4c75e3759ee78b53e2008eae07b3390f842d879b8ae"
-
-[[files]]
 file = "config/yosbr/config/betterdungeons-fabric-1_20.toml"
 hash = "7e32b74dd5b31c9ccf2a412d9a49bc74eea1c9f9bb214af0f46ac8e91fe28294"
 
@@ -30,7 +26,7 @@ hash = "255f4aaf8f4fed6edc59e99f972e97ac84c0ccd4dd393c13ea1543afbcb08b53"
 
 [[files]]
 file = "config/yosbr/config/cameraoverhaul.json"
-hash = "f508fbc9dedc0d269889762f14f0102b8066a58ff472c7184cddb729b2a9a73a"
+hash = "17f122f0a12774db653f5274d2ea16e9fbdedfa75979a744680db65c956e4a04"
 
 [[files]]
 file = "config/yosbr/config/carpet/default_carpet.conf"
@@ -42,7 +38,15 @@ hash = "e54fd955cefde4b34135619914566015539e14d345c7b4d03f73ef1c54213c62"
 
 [[files]]
 file = "config/yosbr/config/charm-common.toml"
-hash = "06c0a6911848409d67648da128f4f560598b3d8056005a02b81aec8fddca9347"
+hash = "0017c6092bf426cef64cfdf3e103ba9e226f6bcd4dad6d611643b6b757e96430"
+
+[[files]]
+file = "config/yosbr/config/cherry-on-top-early.json"
+hash = "449d0b8afac7dd86e69e77a44c4e6de5acb2b3b8f518c89ce63f49c0d90dc4d9"
+
+[[files]]
+file = "config/yosbr/config/cherry-on-top.json5"
+hash = "13dd5500a95ab1c3cb7438fe960aeaae29c86e44d038573ce180fcc4957a161c"
 
 [[files]]
 file = "config/yosbr/config/chunksfadein.properties"
@@ -53,6 +57,10 @@ file = "config/yosbr/config/clienttweaks-common.toml"
 hash = "9182d26ca74ff9cfdb98b36b511a7b4db52cf09525a1f558a9a6d273e67df176"
 
 [[files]]
+file = "config/yosbr/config/combatify/combatify-general.json"
+hash = "037e6c3e76f7e148f726846c90318947b6a96c68f071ee5e7eecfb94bfdff3ac"
+
+[[files]]
 file = "config/yosbr/config/comforts-server.toml"
 hash = "4df08350c3e9e89466d3ccceb634bffb1b4ebb4f6b908f1a3f79c3d97b46a90b"
 
@@ -61,12 +69,20 @@ file = "config/yosbr/config/companion-common.yaml"
 hash = "0330df982a1857833632290129eae0e73cda4bc1b78e5da45ab0719cdacdfd51"
 
 [[files]]
+file = "config/yosbr/config/cookeymod/config.toml"
+hash = "ace84d53e8a3ecaf53de9e14a105db67ab1448f442d154f697fb906de9233fb3"
+
+[[files]]
 file = "config/yosbr/config/draggable_lists.json5"
 hash = "523815276f43aa355350132dba10a81a8134651d1f9c8c9466349fcd471981b5"
 
 [[files]]
 file = "config/yosbr/config/easyanvils-server.toml"
 hash = "0f6ced7647a7fdcc227da5b51f9f0156b260ad1fdd3e1dca76d6c255ecb82f37"
+
+[[files]]
+file = "config/yosbr/config/elytra-trims.json"
+hash = "1351c9eb452e573626a5609f1804186702cd03f4adf5275716ca1fd3136c4aea"
 
 [[files]]
 file = "config/yosbr/config/entity_model_features.json"
@@ -134,7 +150,7 @@ hash = "9baba66b97113feb79d225ddd5beb019ef497066b4ac59d95d4db0c7922d9a05"
 
 [[files]]
 file = "config/yosbr/config/resourcepackoverrides.json"
-hash = "a48cdc71e99c8188c22b64d5df61414b2483edb91cfa3c97a0eacc209845eeee"
+hash = "a82100d4160be4c926fbb85b96445dc21b82286a43f287237094b9a69f1151e8"
 
 [[files]]
 file = "config/yosbr/config/shouldersurfing-client.toml"
@@ -298,6 +314,11 @@ metafile = true
 [[files]]
 file = "mods/brb.pw.toml"
 hash = "d99fd98e6daf4ab8474c727d3e0a653ac800a714b3ef5799e7950129b4f255fe"
+metafile = true
+
+[[files]]
+file = "mods/bundle-scroll.pw.toml"
+hash = "1b014c7b27bb339004d40e7050665e1762882ae01ee754557f47d7bcdcc12a7e"
 metafile = true
 
 [[files]]
@@ -1035,13 +1056,8 @@ hash = "7c27086261da057c17912900fab5f8af99f4dc3100fdf07092da5ae5f9cdd206"
 metafile = true
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r977177_MC1.21.x.zip"
-hash = "228a23c62189ddc4c19592a86d13de722958aad513ff89018e430250c12f7de1"
-
-[[files]]
-file = "resourcepacks/banner-pattern-clarity.pw.toml"
-hash = "4665feec48f32642fc602677c3071e3a14dd706dadd08bd90f758d0e6dab324c"
-metafile = true
+file = "resourcepacks/VanillaTweaks.zip"
+hash = "4acc6074fadfda6c046315fd38dee5425b6cb0dd0aa6c65ef20d7d4dfbbc76d8"
 
 [[files]]
 file = "resourcepacks/better-head-holding.pw.toml"

@@ -17,12 +17,15 @@
 [CraftingFromInventory]
 	Enabled = false
 
+[ItemHoverSorting]
+	Enabled = false
+
 [ItemRestocking]
 	Enabled = false
 
 [ItemStacking]
 	#Allows some unstackable items to stack.
-	Enabled = true
+	Enabled = false
 	#Enchanted book maximum stack size.
 	"Enchanted book" = 16
 	#Potion maximum stack size.
