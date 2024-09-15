@@ -1,5 +1,7 @@
 {
   "enableBundlesByDefault": false,
+  "enableTradeRebalanceByDefault": true,
+  "enableFasterObsidianMining": true,
   "enableStackablePotions": false,
   "potionMaxStackSize": 3,
   "splashPotionCooldown": 1,
