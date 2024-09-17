@@ -26,7 +26,7 @@ hash = "255f4aaf8f4fed6edc59e99f972e97ac84c0ccd4dd393c13ea1543afbcb08b53"
 
 [[files]]
 file = "config/yosbr/config/cameraoverhaul.json"
-hash = "17f122f0a12774db653f5274d2ea16e9fbdedfa75979a744680db65c956e4a04"
+hash = "fbbc3f519f1bbe0efc4ef1c0dfcad210c1266dd25a3e600632052431a1fb9a7f"
 
 [[files]]
 file = "config/yosbr/config/carpet/default_carpet.conf"
@@ -42,11 +42,11 @@ hash = "0017c6092bf426cef64cfdf3e103ba9e226f6bcd4dad6d611643b6b757e96430"
 
 [[files]]
 file = "config/yosbr/config/cherry-on-top-early.json"
-hash = "449d0b8afac7dd86e69e77a44c4e6de5acb2b3b8f518c89ce63f49c0d90dc4d9"
+hash = "3b5cb9788e776566653eafe11f4ec6ab7f6e0fcb6e691e272e0cdbcf24ef7bd7"
 
 [[files]]
 file = "config/yosbr/config/cherry-on-top.json5"
-hash = "13dd5500a95ab1c3cb7438fe960aeaae29c86e44d038573ce180fcc4957a161c"
+hash = "4e4502e0932e5b890554c6f7722684c4ae6fdd6c33a8e021139886e37e7b5946"
 
 [[files]]
 file = "config/yosbr/config/chunksfadein.properties"
@@ -319,6 +319,11 @@ metafile = true
 [[files]]
 file = "mods/bundle-scroll.pw.toml"
 hash = "1b014c7b27bb339004d40e7050665e1762882ae01ee754557f47d7bcdcc12a7e"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "82cfb82a3ab7429dc52d172773e52f399c9da64b4e3210c2c1c9f045977a18d4"
 metafile = true
 
 [[files]]
@@ -876,6 +881,11 @@ hash = "16cce82827657a79bc926920c320e04178351a79bfd7069b741f35e19e90d360"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "bd32d9de9af73838a17f0c21ae0fc7670e41f5ae57ff5ba20b9cf338c54dc524"
+metafile = true
+
+[[files]]
 file = "mods/shifting-wares.pw.toml"
 hash = "4cd3d11d3f4b01f2ea40e0bdbd677ee17c6686b6b96fe56ad7d3a067ae374f8c"
 metafile = true
@@ -1011,6 +1021,11 @@ hash = "39426bfeeab22ea17f94fd3904dd9b78f9a3c9b4ddcb732b734ddbfd0e3568af"
 metafile = true
 
 [[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "fbcaad686c19ba1516c890d1d0bac8eb6d60b49be26d8bf142a47cc6f5988589"
+metafile = true
+
+[[files]]
 file = "mods/wakes.pw.toml"
 hash = "b76ffe80c018dde453c9dad8f4179238acaa02e56e7b82071a3cc52419e80dc7"
 metafile = true
@@ -1054,6 +1069,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "7c27086261da057c17912900fab5f8af99f4dc3100fdf07092da5ae5f9cdd206"
 metafile = true
+
+[[files]]
+file = "mods_faltando_121.txt"
+hash = "ee57566f3a391b1e90604fe1a490f8f4cb791d37632430b3a87b685e2fb13f59"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
