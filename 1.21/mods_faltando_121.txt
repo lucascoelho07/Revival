@@ -7,13 +7,14 @@ Boat Item View
 Bookshelf
 Companion 🐕
 Container Search
-	Cull Less Leaves
+Cull Less Leaves
 DashLoader
 Distracting Trims
 Draggable Lists
 Drip Sounds (Fabric)
 Dynamic Music Updated
 Emotecraft
+Enhanced Block Entities
 Fabrication & Forgery
 Fix Keyboard on Linux
 Horse Stats Vanilla
