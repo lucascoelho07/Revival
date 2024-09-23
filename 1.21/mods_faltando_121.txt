@@ -14,7 +14,6 @@ Draggable Lists
 Drip Sounds (Fabric)
 Dynamic Music Updated
 Emotecraft
-Enhanced Block Entities
 Fabrication & Forgery
 Fix Keyboard on Linux
 Horse Stats Vanilla

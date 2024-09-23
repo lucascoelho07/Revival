@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "2a25f8f8df18c2416c03a3655ae918cecb427d389ea7f81fc188e5778ec3f0aa"
+hash = "8e4a62be6785f2ed8dd98dc2e6633abfc624b2bcbb582f5736bc509a9226c225"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "6314ecd4ec33177a193d41e44ff552d12bf6cdb72959d81ecd691b8688735a19"
+hash = "48cec2d0e6c13c35b04f5a0085bbee213f21bce3a42856dd92141396f67b8809"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "8fb1d7b9c4c090b7c96ab7e4b6408ca39f33e0aedfbb4615d1c3aa84c9f0aea9"
+hash = "64ad1ba5d5f3b474d383de855709fb1fecc72f46652b32d8a341fbb8b7ae5d51"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "98673a25d63cfb9475c2a20f479bcd66cdc11fe9b6d1e7af7eef625799cd8c29"
+hash = "10193b001afd0259ef3c675d1f3c09208cda7af4609bb0623c6cd2187e33fdda"
 metafile = true
 
 [[files]]
@@ -682,12 +682,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "72e670c17653055ba7e26208be0ebb937ae4fc257e3d61f8165b793dc07e78da"
+hash = "102d8be60c143a9e5e85339d3682b14330a2f76801a27714ef42913f513f7bcd"
 metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "41ff57d69548f6dab8a6131bdaaf21a5f9e8089c453da7106e00fa770f548276"
+hash = "3cd9df7b685f51045031ad3efb01a8d589b4935e6e810da5d905dd38522cded2"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "a8e7b67fff22473839f2fbdbcdab78505e075774becfb0f5f589ee5f2f351d04"
+hash = "7074586f4e29d76663015fc42bb77eb05f8005b5d0f6dafe4a09667ffdf4229b"
 metafile = true
 
 [[files]]
@@ -842,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "87d27298a458bed68368b941d7c310ed6e0668b47372f527deeaf60ddec284de"
+hash = "c7b00c2657fd545091480fbc7e48a2fe4be6e2bbe0711843a0328c969b0b7d97"
 metafile = true
 
 [[files]]
@@ -857,7 +857,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "d235a305e550bd16a1ffe65614bafc4f51e2ae0e978617c72397a45e27976525"
+hash = "22fb431a61fa268510bbe07fb9c6ee9e92a880fd88e9309c438254cf582a1cad"
 metafile = true
 
 [[files]]
@@ -947,7 +947,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "820b51dd5b8f4566928fa0cd7c77c9cfd56e8c7f3aaec4bfc45bdce8ae4b8872"
+hash = "31155320da05bc8ed38aa6470b52fe0451fcb6d09c5dd3fb1a71afaa3ec33214"
 metafile = true
 
 [[files]]
@@ -982,7 +982,7 @@ metafile = true
 
 [[files]]
 file = "mods/trimmable-tools.pw.toml"
-hash = "e626f9db774f0534afd3734476342e6270eae430ad65d922324de4b4c06354c7"
+hash = "b84440454824836ee278fdf35ea70d6d58b5e133bd8ae4b3afdf1c82146d43b4"
 metafile = true
 
 [[files]]
@@ -1072,7 +1072,7 @@ metafile = true
 
 [[files]]
 file = "mods_faltando_121.txt"
-hash = "d300823d2b322e8733f74a9b0f088f89ecd81ab4739606ef5f6c3b45adad55fe"
+hash = "a267fe7db849547874a3c6383ddfd0ba2adb5f58275e47ff790f0740d25428b2"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
@@ -1090,7 +1090,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "456a72a29a8f9e2139b94b0f02e0aec653d7152631226ab44c4840a49a6597d2"
+hash = "c00b63591a968ab8311097cf887e74ea81280543f8ae21681dae0e144fc421d3"
 metafile = true
 
 [[files]]
@@ -1155,7 +1155,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c79db5b1bf80fbe510b33ea2b6b009df52953547cb2920d67191e54d5b89127d"
+hash = "8cace4bedb43e3c6938279784dc7e8a45a73c4c2ef0fb8548f9c67316bc02d7d"
 metafile = true
 
 [[files]]
@@ -1170,5 +1170,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "40f83616a61e0af5e807e2ef1df03958e65234d82d2ac310d9c21fd82205df02"
+hash = "e6996ecb68a6c690558f589e7194d7df23a186ab8b75f0f67cfed069a280470b"
 metafile = true
