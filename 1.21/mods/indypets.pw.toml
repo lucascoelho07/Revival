@@ -1,13 +1,13 @@
 name = "IndyPets - Independent Pets"
-filename = "indypets-1.4.1-1.21.jar"
+filename = "indypets-1.4.3-1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SVJhmJvx/versions/xyV39TUk/indypets-1.4.1-1.21.jar"
+url = "https://cdn.modrinth.com/data/SVJhmJvx/versions/GNq5nrYn/indypets-1.4.3-1.21.jar"
 hash-format = "sha512"
-hash = "4f0a5244d1fa6c9710013f60e9181a6ae8338716ae0c0ebd48af03d26f641beb02997cddacf7297b91ee77206a0ad4cd2ad073b07e3bf03d10a6d04adbf251a5"
+hash = "bb515f4ad97559b0d62e52edd5c585fdf1bfc303db89677180abc9560b6115b0032fac53d78b28c0902b7c6ed2d60d849ecf9077db455a696e5c1b3fc693d8ce"
 
 [update]
 [update.modrinth]
 mod-id = "SVJhmJvx"
-version = "xyV39TUk"
+version = "GNq5nrYn"

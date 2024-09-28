@@ -1,5 +1,5 @@
 name = "Wakes"
-filename = "wakes-0.3.0+1.21.1.jar"
+filename = "wakes-0.3.0+1.21.1.jar.disabled"
 side = "client"
 
 [download]

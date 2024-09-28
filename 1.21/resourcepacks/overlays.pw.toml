@@ -1,13 +1,13 @@
 name = "Overlay`s"
-filename = "Overlay`s1.21.zip"
+filename = "Overlay`s Reworked.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/1PGegzf5/versions/6GYLO0ph/Overlay%60s1.21.zip"
+url = "https://cdn.modrinth.com/data/1PGegzf5/versions/BEynT92q/Overlay%60s%20Reworked.zip"
 hash-format = "sha512"
-hash = "58e4209e053c5eda4980c3beeb63b58d20e42b4e58ff490acc878812200389b0ab63acd76153659b654c33a7704665530c6608f15d98e046dee80a8c7b40500b"
+hash = "27ef8b3f0e614adcb3c01524b1b62a1657c1ad2603bdbb13eae6ef951c365ebb62db3e2a801ff2f2a2e098563227ad3b7d8e713dd4861cc247d268911a4140c0"
 
 [update]
 [update.modrinth]
 mod-id = "1PGegzf5"
-version = "6GYLO0ph"
+version = "BEynT92q"
