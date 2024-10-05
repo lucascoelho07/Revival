@@ -3,11 +3,11 @@ filename = "dungeons-and-taverns-nether-fortress-overhaul-v2.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8Dbnvm77/versions/dMQfncK0/dungeons-and-taverns-nether-fortress-overhaul-v2.4.jar"
+url = "https://cdn.modrinth.com/data/8Dbnvm77/versions/eZ4P6aNS/dungeons-and-taverns-nether-fortress-overhaul-v2.4.jar"
 hash-format = "sha512"
-hash = "ea175cd66d07b57677d229743a2aefe178062527d782c89d7b1c263aa72c113ec2b139979edd286e20ed937d469ead494f7fbed69b5043bd84ac6599cb2911e7"
+hash = "2d70a77ce9815b5b181974bac729af9c8c794d69caaa83430c4c3050f402003468fda1c1d730695c6e9263951f9674e41f088e00240b7b49278f17487f153064"
 
 [update]
 [update.modrinth]
 mod-id = "8Dbnvm77"
-version = "dMQfncK0"
+version = "eZ4P6aNS"

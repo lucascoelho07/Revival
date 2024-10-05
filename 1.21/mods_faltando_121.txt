@@ -1,10 +1,10 @@
 AttributeFix
 Bedspreads
 Better Trim Tooltips
-Bigger Better End Cities
+	não?	Bigger Better End Cities
 Biome Tinted Flowers
 Boat Item View
-Bookshelf
+	não?	Bookshelf
 Companion 🐕
 Container Search
 Cull Less Leaves
@@ -16,17 +16,17 @@ Dynamic Music Updated
 Emotecraft
 Fabrication & Forgery
 Fix Keyboard on Linux
-Horse Stats Vanilla
+	não?	Horse Stats Vanilla
 Inventorio
 Inventory Management
 Keybind Fix
-Lootr
+	não?	Lootr
 Mobs Attempt Parkour
 Path Under Fence Gates
 ResolutionControl+
 Screenshot Viewer
 Smooth Swapping
-Snowy Sniffer
+	não?	Snowy Sniffer
 Sushi Bar
 Tool Stats
 ToolTipFix
