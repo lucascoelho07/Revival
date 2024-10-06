@@ -1,0 +1,13 @@
+name = "Linkart"
+filename = "Linkart-5.4.5-1.20.6-build.29.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sc4Mu9Zu/versions/KkB5NDDW/Linkart-5.4.5-1.20.6-build.29.jar"
+hash-format = "sha512"
+hash = "4c127b8041307f8c705e9259fcc4126140dfb2e318e7beda6bf3a24384ccedd2afb520d9bb7b43074a9b9556cc28dc568a73f89ac61f8d7f588ff0f465ef6e71"
+
+[update]
+[update.modrinth]
+mod-id = "sc4Mu9Zu"
+version = "KkB5NDDW"

@@ -1,0 +1,13 @@
+name = "More Readable Settings"
+filename = "MoreReadableSettings.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XQ7UVQw3/versions/rLgYgdTw/MoreReadableSettings.zip"
+hash-format = "sha512"
+hash = "4ee1b8a689f290c6642e646042e912c49fca8c1bd0e2008eadd09d0f6b42e27e7b0d6f0b7f6d87f19324a5a15ee3a66c6b9263287246105ac124c9ec83ad44a9"
+
+[update]
+[update.modrinth]
+mod-id = "XQ7UVQw3"
+version = "rLgYgdTw"

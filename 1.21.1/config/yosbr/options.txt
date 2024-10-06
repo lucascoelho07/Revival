@@ -1,0 +1,10 @@
+version:3953
+key_bedrockIfy.key.settings:key.keyboard.unknown
+key_key.charm.open_atlas:key.keyboard.unknown
+key_key.charm.open_portable_crafting:key.keyboard.unknown
+key_key.indypets.interact:key.keyboard.unknown
+key_viewboboptions.add_item_bind:key.keyboard.unknown
+key_zoomify.key.zoom.secondary:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown

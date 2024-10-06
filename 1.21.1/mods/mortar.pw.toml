@@ -1,0 +1,13 @@
+name = "Mortar"
+filename = "mortar-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/26zEKxNr/versions/haQft42I/mortar-2.0.3.jar"
+hash-format = "sha512"
+hash = "357089526888c6fd39a98e117f9b13fd1cb6e631fd464c44589f10fbc083b0d3fee582b8730262842fe48871ba9e05b87ccce7cfffe71707f2cd87f7f8821e2d"
+
+[update]
+[update.modrinth]
+mod-id = "26zEKxNr"
+version = "haQft42I"

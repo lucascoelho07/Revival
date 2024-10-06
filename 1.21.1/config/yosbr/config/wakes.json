@@ -1,0 +1,10 @@
+{
+	"effectSpawningRules": {
+		"mobs": "ONLY_SIMULATION",
+		"items": "ONLY_SIMULATION",
+		"other_players": "ONLY_SIMULATION",
+		"boat": "ONLY_SIMULATION",
+		"player": "ONLY_SIMULATION"
+	},
+	"renderType": "GENERAL"
+}

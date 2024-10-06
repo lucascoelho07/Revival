@@ -1,0 +1,14 @@
+{
+  "breaking": {
+    "enable_break": true,
+    "enable_fake_player_break": false,
+    "disable_break": false,
+    "power_comparators": true,
+    "blast_resistant": true,
+    "blast_immune": false,
+    "trapped_custom": false
+  },
+  "notifications": {
+    "disable_notifications": true
+  }
+}

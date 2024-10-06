@@ -1,0 +1,89 @@
+AttributeFix
+Bedspreads
+Better Trim Tooltips
+	não?	Bigger Better End Cities
+Biome Tinted Flowers
+Boat Item View
+	não?	Bookshelf
+Companion 🐕
+Container Search
+Cull Less Leaves
+DashLoader
+Distracting Trims
+Draggable Lists
+Drip Sounds (Fabric)
+Dynamic Music Updated
+Emotecraft
+Fabrication & Forgery
+Fix Keyboard on Linux
+	não?	Horse Stats Vanilla
+Inventorio
+Inventory Management
+Keybind Fix
+	não?	Lootr
+Mobs Attempt Parkour
+Path Under Fence Gates
+ResolutionControl+
+Screenshot Viewer
+Smooth Swapping
+	não?	Snowy Sniffer
+Sushi Bar
+Tool Stats
+ToolTipFix
+VanillaTweaks
+Wandering Collector
+YUNG's Better Dungeons
+YUNG's Better Mineshafts
+YUNG's Better Nether Fortresses
+YUNG's Better Ocean Monuments
+YUNG's Better Witch Huts
+
+
+
+
+Better Recipe Book
+Monsters in the Closet
+Combatify
+MacOS Input Fixes
+Wakes
+Advancement Plaques
+Biome Moss
+Equipment Compare
+Fog Looks Good Now (Fabric) > Fog
+LambDynamicLights > RyoamicLights
+More Mob Variants
+More Mob Variants x Fresh Animations
+ThreadTweak
+YUNG's Menu Tweaks
+YUNG's API
+Carpet
+Iceberg
+Raised
+Clean Tooltips
+EmuNO > MacOS InputFixes
+Leawind's Third Person > Shoulder Surfing Reloaded 
+
+
+
+FastQuit
+Separated Leaves
+Smarter Farmers (farmers replant)
+Amendments
+Carpet
+Particular ✨
+oωo (owo-lib)
+Soaring Phantoms > Cherry On Top
+Trimmable Tools
+	Unloaded Activity
+	Chai's Better HUD
+Improved Fire Overlay > Firorize
+Simple Netherite Horse Armor
+CIT Resewn
+Moonlight Lib
+CoroUtil
+What Are They Up To (Watut)
+	Krypton
+	Server Core
+	Very Many Players
+	C2ME
+Brundle Scroll

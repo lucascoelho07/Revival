@@ -1,0 +1,13 @@
+name = "Clean Tooltips"
+filename = "clean_tooltips-1.0-fabric-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vMoHe8uI/versions/8WhEDNiq/clean_tooltips-1.0-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "2a8c926d16307810ea21fbc0c44b2ac0ce189e9b897b986b06acae4e451e23c5567d10c3cd9d8e25d2c120589e1468a31c3ab1d5c2f4f74e07af9027e3323862"
+
+[update]
+[update.modrinth]
+mod-id = "vMoHe8uI"
+version = "8WhEDNiq"

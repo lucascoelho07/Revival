@@ -1,0 +1,17 @@
+{
+  "waila": {
+    "show_mod_name": false,
+    "show_item_mod_name": false
+  },
+  "minecraft": {
+    "pet.hide_unknown_owner": true,
+    "breaking_progress.bottom_only": true
+  },
+  "harvest": {
+    "enabled": false
+  },
+  "additionz": {
+    "age_info": false
+  }
+}
+

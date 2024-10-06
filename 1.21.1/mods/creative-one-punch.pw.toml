@@ -1,0 +1,13 @@
+name = "Creative One-Punch"
+filename = "CreativeOnePunch-1.4-universal.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7T4TeOKj/versions/xgUyGebr/CreativeOnePunch-1.4-universal.jar"
+hash-format = "sha512"
+hash = "f7451e323a1ef6ed7a93317b085b65747feb0e312735256b21a34ffed31a1f95bc525f0451042e442aa97ba34ce410c1e47091f88889fb2608a168de5d063f2a"
+
+[update]
+[update.modrinth]
+mod-id = "7T4TeOKj"
+version = "xgUyGebr"

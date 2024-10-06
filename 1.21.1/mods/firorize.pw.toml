@@ -1,0 +1,13 @@
+name = "Firorize"
+filename = "firorize-1.3+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LXDmuHJP/versions/v3O0O2bX/firorize-1.3%2B1.21.jar"
+hash-format = "sha512"
+hash = "c6d3167bc9832688b6b4503cb8691e7828d24892139d1848c34abb59d7066668115c79fc04d93cc4ed0f4275b3552c18178a47144dae1c5860eda8ab48ca7bce"
+
+[update]
+[update.modrinth]
+mod-id = "LXDmuHJP"
+version = "v3O0O2bX"

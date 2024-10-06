@@ -1,0 +1,13 @@
+name = "Revival"
+author = "TheCoelho"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "344da6661096726dbc64049bc46c67f5207845350ddb747d180cb2d59a94c020"
+
+[versions]
+fabric = "0.16.5"
+minecraft = "1.21.1"

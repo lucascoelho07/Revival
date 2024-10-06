@@ -1,0 +1,6 @@
+[tweaks]
+autoClimbLadder = true
+hideShieldUnlessHoldingWeapon = false
+masterVolumeSlider = false
+musicVolumeSlider = false
+paneBuildingSupport = false

@@ -1,0 +1,8 @@
+[datapacks]
+required = [
+    "datapacks/required/"
+]
+
+optional = [
+    "datapacks/"
+]

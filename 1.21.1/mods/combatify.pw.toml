@@ -1,0 +1,13 @@
+name = "Combatify"
+filename = "Combatify-1.21-1.2.2-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kRYhslBa/versions/PKyOMZfY/Combatify-1.21-1.2.2-Fabric.jar"
+hash-format = "sha512"
+hash = "797d3ecd145eb2803e91181015f02ab69981ead87b57de29f6d9ff8c93a68146b32436383b8617246950712eb222e74371956b367ef33068fe1dcf183b83deb6"
+
+[update]
+[update.modrinth]
+mod-id = "kRYhslBa"
+version = "PKyOMZfY"

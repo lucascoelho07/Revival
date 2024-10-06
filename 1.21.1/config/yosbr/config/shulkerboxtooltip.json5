@@ -1,0 +1,11 @@
+{
+	"preview": {
+		"swapModes": true,
+		"alwaysOn": true,
+		"position": "OUTSIDE",
+	},
+	"tooltip": {
+		"showKeyHints": false,
+		"type": "NONE",
+	}
+}

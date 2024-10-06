@@ -1,0 +1,5 @@
+[betterDungeons.general]
+enableHeads = false
+[betterDungeons.smallNetherDungeon]
+enabled = true
+witherSkeletonsDropWitherSkulls = false
