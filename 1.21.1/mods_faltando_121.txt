@@ -1,10 +1,8 @@
-AttributeFix
 Bedspreads
 Better Trim Tooltips
 	não?	Bigger Better End Cities
 Biome Tinted Flowers
 Boat Item View
-	não?	Bookshelf
 Companion 🐕
 Container Search
 Cull Less Leaves
@@ -29,7 +27,6 @@ Smooth Swapping
 	não?	Snowy Sniffer
 Sushi Bar
 Tool Stats
-ToolTipFix
 VanillaTweaks
 Wandering Collector
 YUNG's Better Dungeons
@@ -87,3 +84,17 @@ What Are They Up To (Watut)
 	Very Many Players
 	C2ME
 Brundle Scroll
+
+
+
+
+
+1.21.1
+
+
+AttributeFix
+Bookshelf
+Debugify
+Xarnder's Sodium Options
+Amplified Nether
+No Lava Pockets
