@@ -226,6 +226,16 @@ hash = "616cd0800c8d2d4397c7e80fad90c4fd8676d226901dc874bea4d6d7f3db4f2f"
 metafile = true
 
 [[files]]
+file = "mods/amplified-nether-height.pw.toml"
+hash = "5490ad69693f2a3ce73258b3fdb0dec2026afdcef218bece6834f112c0ad7382"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "c6a32a4039ab4557050fbda9921ecd31911654f163009a12e70133acea9843c7"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "ff31791271197f8122fb52893e7e67d86ba038dd0e77e57227ef84de8f7e069e"
 metafile = true
@@ -757,11 +767,6 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "3ae37b98baa7a4b55304d164b76a05ce9f9b059c4d16a3e8ad78684ed31943de"
-metafile = true
-
-[[files]]
-file = "mods/nightosphere.pw.toml"
-hash = "24d8fa8a27d7d9c269493f58aed0efcd2a3311eca940452d967b2c211a43fc58"
 metafile = true
 
 [[files]]
