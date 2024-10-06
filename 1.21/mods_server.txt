@@ -1,0 +1,87 @@
+Accelerated Decay
+Amendments
+Amplified Nether
+Amplified Nether Height
+AppleSkin
+Architectury API
+Atlas Core
+Audaki Cart Engine (Faster Minecarts)
+bad packets
+Balm
+BedrockIfy
+Better Boat Movement
+Better Statistics Screen
+Carpet
+Cherry On Top
+Cloth Config API
+Collective
+Combatify
+Comforts
+Concurrent Chunk Management Engine (Fabric)
+Connectible Chains [Fabric]
+CoroUtil
+Creative One-Punch
+Cycle Paintings
+Dismount Entity
+Dungeons and Taverns
+Dungeons and Taverns Nether Fortress Overhaul
+Dungeons and Taverns Pillager Outpost Overhaul
+Dungeons and Taverns Stronghold Overhaul
+Easy Anvils
+Easy Magic
+Elytra Trims
+Fabric API
+Fabric Language Kotlin
+FerriteCore
+Fixed Levels
+Forge Config API Port
+Friends&Foes (Fabric/Quilt)
+Geophilic
+Global Packs
+Head in the Clouds
+HerdsPanic
+Horse Buff
+IndyPets - Independent Pets
+Inventory Essentials
+KleeSlabs
+Let Me Despawn
+Linkart
+Lithium
+Load My F***ing Tags
+M.R.U
+ModernFix
+Monsters in the Closet
+Moonlight Lib
+More Axolotl Variants API
+More Axolotl Variants Mod
+More Mob Variants
+Mortar
+NoFun DnT
+Noisium
+Nyf's Spiders
+oωo (owo-lib)
+Puzzles Lib
+Refined Advancements
+Scaffolding Drops Nearby
+Separated Leaves
+ServerCore
+Shifting Wares
+Simple Netherite Horse Armor
+Simple Voice Chat
+Sit
+Smarter Farmers (farmers replant)
+Snow Under Trees (Fabric)
+Superflat World No Slimes
+TCDCommons API
+Text Placeholder API
+ThreadTweak
+Trimmable Tools
+Unloaded Activity
+Very Many Players (Fabric)
+Villager Names
+Visible Traders
+Visual Workbench
+What Are They Up To (Watut)
+WTHIT
+Your Options Shall Be Respected (YOSBR)
+YUNG's API

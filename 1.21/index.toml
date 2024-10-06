@@ -201,6 +201,10 @@ file = "config/yosbr/options.txt"
 hash = "a9e871d7807cafd8e3032d60373ec507a9c0f9421497fb3a68aeb7130520d10d"
 
 [[files]]
+file = "datapacks/No_lava_pockets.zip"
+hash = "a13600562b23fff005ce655a1d5508ac7dbc8ba2b8cbe3824fff643309c7a07f"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "3ba7d03b5b6f8a06c9bb6bfd48ee73858b6ee7cdeb51616e57e8e3cf348cf5a1"
 metafile = true
@@ -308,11 +312,6 @@ metafile = true
 [[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "65c4711800182b247b2e93c4625bece7f39cbf3a525e42c368fbb9525590c3c8"
-metafile = true
-
-[[files]]
-file = "mods/biome-moss.pw.toml"
-hash = "5408ef39da972108879e6bd5d9824c545014f205ed82bb8453630db487b06963"
 metafile = true
 
 [[files]]
@@ -1085,8 +1084,16 @@ hash = "7c27086261da057c17912900fab5f8af99f4dc3100fdf07092da5ae5f9cdd206"
 metafile = true
 
 [[files]]
+file = "mods_client.txt"
+hash = "fe0c296b406a9c1f76405eb88f10713eb40e571caeb8b7ea2eeab5926e2d79a1"
+
+[[files]]
 file = "mods_faltando_121.txt"
 hash = "ea9b794d20c36110f02841e4322b36b2145ba9fe6f0f353f72947b7956d6e2b0"
+
+[[files]]
+file = "mods_server.txt"
+hash = "da86bd7e823f77cfcd84aa11047e5aed57fc230d92cb7dd1776cd2e442624426"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"

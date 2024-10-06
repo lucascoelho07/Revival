@@ -1,0 +1,192 @@
+3D Skin Layers
+[EMF] Entity Model Features
+[ETF] Entity Texture Features
+Accelerated Decay
+Accurate Block Placement Reborn
+Advancement Plaques
+Amendments
+Amplified Nether
+Amplified Nether Height
+Animatica
+AppleSkin
+Architectury API
+Armor Chroma for Fabric
+Atlas Core
+Audaki Cart Engine (Faster Minecarts)
+bad packets
+BadOptimizations
+Balm
+BedrockIfy
+Better Boat Movement
+Better Clouds
+Better Head Holding
+Better Recipe Book
+Better Statistics Screen
+BetterF3
+BetterGrassify
+Biome Moss
+Blinking Ender Eyes
+Bobby
+Bundle Scroll
+Camera Overhaul
+Carpet
+Chai's Better HUD
+Charmonium
+Chat Heads
+Chat Reporting Helper
+Cherished Worlds
+Cherry On Top
+Chunks fade in
+CIT Resewn
+Clean Tooltips
+Client Tweaks
+Cloth Config API
+Collective
+Combatify
+Comforts
+Complementary Shaders - Reimagined
+Connectible Chains [Fabric]
+Continuity
+Controlling
+CoroUtil
+Creative One-Punch
+Cubes Without Borders
+Cycle Paintings
+Default Dark Mode
+Disable Custom Worlds Advice
+Dismount Entity
+Dungeons and Taverns
+Dungeons and Taverns Nether Fortress Overhaul
+Dungeons and Taverns Pillager Outpost Overhaul
+Dungeons and Taverns Stronghold Overhaul
+Dynamic FPS
+Easy Anvils
+Easy Magic
+Eating Animation
+Elytra Trims
+Embellished Stone (Advancements Plaques)
+Emoji Type
+Enhanced Block Entities
+Entity Culling
+Equipment Compare
+Even Better Enchants
+Fabric API
+Fabric Language Kotlin
+FabricSkyboxes
+FabricSkyBoxes Interop
+FastQuit
+FerriteCore
+Firorize
+First-person Model
+Fixed Levels
+Flow
+Fog
+Forge Config API Port
+Freecam (Modrinth Edition)
+Fresh Animations
+Fresh Animations - Extensions
+Fresh Animations - Extensions
+Fresh Moves
+Friends&Foes (Fabric/Quilt)
+FuelInfo
+Geophilic
+Global Packs
+Gurkis Texture Variations
+Head in the Clouds
+HerdsPanic
+Highlight
+Horse Buff
+Iceberg
+Idwtialsimmoedm
+ImmediatelyFast
+IndyPets - Independent Pets
+Inventory Essentials
+InvMove
+Iris Shaders
+KleeSlabs
+Language Reload
+Let Me Despawn
+Linkart
+Lithium
+Load My F***ing Tags
+M.R.U
+MacOS Input Fixes
+Mod Menu
+Model Gap Fix
+ModernFix
+Monsters in the Closet
+Moonlight Lib
+More Axolotl Variants API
+More Axolotl Variants Mod
+More Heart Types
+More Mob Variants
+More Mob Variants x Fresh Animations
+More Readable Settings
+Mortar
+NoFun DnT
+Noisium
+Not Enough Animations
+Nvidium
+Nyf's Spiders
+ObsidianUI
+OptiGUI
+Ore Variants
+Overlay`s
+oωo (owo-lib)
+Paginated Advancements & Custom Frames
+Particular ✨
+Polytone
+Presence Footsteps
+Programmer Art Fix
+Puzzles Lib
+Raised
+Reacharound
+Real Arrow Tip
+Reese's Sodium Options
+Refined Advancements
+Resource Pack Overrides
+Resourcify
+RyoamicLights
+Scaffolding Drops Nearby
+Searchables
+Separated Leaves
+Shifting Wares
+Shoulder Surfing Reloaded
+Shulker Box Tooltip
+Simple Netherite Horse Armor
+Simple Voice Chat
+Sit
+Smarter Farmers (farmers replant)
+Smooth Scrolling Refurbished
+Snow Under Trees (Fabric)
+Sodium
+Sodium Extra
+Sodium Shadowy Path Blocks
+Sound Physics Remastered
+Sounds
+Status Effect Bars
+Superflat World No Slimes
+TalkBubbles
+TCDCommons API
+Text Placeholder API
+Third Person Maps
+ThreadTweak
+Translations for Sodium
+Trimmable Tools
+Unloaded Activity
+Vectorientation
+View Bobbing Options
+Villager Names
+Visible Traders
+Visual Workbench
+Visuality
+Wakes
+Wavey Capes
+What Are They Up To (Watut)
+WTHIT
+xali's Potion
+YetAnotherConfigLib
+Your Options Shall Be Respected (YOSBR)
+YUNG's API
+YUNG's Menu Tweaks
+Zoomify
