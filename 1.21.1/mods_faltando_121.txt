@@ -1,34 +1,37 @@
 Bedspreads
 Better Trim Tooltips
-	não?	Bigger Better End Cities
-Biome Tinted Flowers
 Boat Item View
 Companion 🐕
 Container Search
-Cull Less Leaves
+Cull Less Leaves > Sodium Leaf Culling
 DashLoader
 Distracting Trims
 Draggable Lists
 Drip Sounds (Fabric)
-Dynamic Music Updated
 Emotecraft
 Fabrication & Forgery
 Fix Keyboard on Linux
-	não?	Horse Stats Vanilla
+Horse Stats Vanilla
 Inventorio
 Inventory Management
 Keybind Fix
-	não?	Lootr
 Mobs Attempt Parkour
 Path Under Fence Gates
 ResolutionControl+
 Screenshot Viewer
 Smooth Swapping
-	não?	Snowy Sniffer
+
 Sushi Bar
 Tool Stats
 VanillaTweaks
 Wandering Collector
+
+não?
+Bigger Better End Cities
+Biome Tinted Flowers
+Dynamic Music Updated
+Lootr
+Snowy Sniffer
 YUNG's Better Dungeons
 YUNG's Better Mineshafts
 YUNG's Better Nether Fortresses
