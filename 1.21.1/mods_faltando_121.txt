@@ -99,5 +99,5 @@ AttributeFix
 Bookshelf
 Debugify
 Xarnder's Sodium Options
-Amplified Nether
+Nightosphere > Amplified Nether
 No Lava Pockets
