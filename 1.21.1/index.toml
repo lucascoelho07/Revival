@@ -439,6 +439,11 @@ hash = "4b9b65e3b6af2c4e2dfc86e1bda626dd4f9b69a68498744c10d85005538adb05"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "03afedbbc59e77752ee55a6a041a3767af731b7f8faa28e3b3256ad9be5b67a6"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "1365610f945f34d5d9ca8987ff8dc9a6d0754d49f5b7a78ca507a1e74bcb0ce2"
 metafile = true
@@ -1109,7 +1114,7 @@ hash = "fe0c296b406a9c1f76405eb88f10713eb40e571caeb8b7ea2eeab5926e2d79a1"
 
 [[files]]
 file = "mods_faltando_121.txt"
-hash = "dbe901a9e9494cd3fb81d3c7560e9525f99354e9a0eb170b3ff587ad9cb82636"
+hash = "c67c8e4819654fbd3ee5e37f1196bb22e89b11046457fa5bf66a0c1be18b7441"
 
 [[files]]
 file = "mods_server.txt"
