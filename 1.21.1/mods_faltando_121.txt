@@ -102,3 +102,4 @@ Debugify
 Xarnder's Sodium Options
 Nightosphere > Amplified Nether
 No Lava Pockets
+Controlify
