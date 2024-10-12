@@ -10,6 +10,7 @@ Draggable Lists
 Drip Sounds (Fabric)
 Emotecraft
 Fabrication & Forgery
+Find - Search For Items
 Fix Keyboard on Linux
 Horse Stats Vanilla
 Inventorio
