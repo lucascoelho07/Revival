@@ -34,7 +34,7 @@ hash = "c70592a8470155f9b16209520ec40ecd7e7557d7e6ced3912921b6ee4d7d2e64"
 
 [[files]]
 file = "config/yosbr/config/charm-client.toml"
-hash = "e54fd955cefde4b34135619914566015539e14d345c7b4d03f73ef1c54213c62"
+hash = "57f5f0ff19d64b0c44e301ad2d9d2c3f538890a1dbc6180463977e58688b759d"
 
 [[files]]
 file = "config/yosbr/config/charm-common.toml"
@@ -225,8 +225,13 @@ hash = "9329663d157d0dfa1c9a5a4c5ccad1d1c5042759527ce503ed46804fe1c357f3"
 metafile = true
 
 [[files]]
+file = "mods/almanac-lib.pw.toml"
+hash = "208a52276bf3af6ffd30b032b5954269bc30513053c279e7255cc167c38e5d5c"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
-hash = "717292cc70aa790adcbf9e241a88cc9cd38822739bd63fe05525957ee033f0d7"
+hash = "0361f182ec44f12d7ab5664552dd5fc57c3ba054a6ac83615c9ab487f2a2e390"
 metafile = true
 
 [[files]]
@@ -439,11 +444,6 @@ hash = "4b9b65e3b6af2c4e2dfc86e1bda626dd4f9b69a68498744c10d85005538adb05"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "03afedbbc59e77752ee55a6a041a3767af731b7f8faa28e3b3256ad9be5b67a6"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "1365610f945f34d5d9ca8987ff8dc9a6d0754d49f5b7a78ca507a1e74bcb0ce2"
 metafile = true
@@ -589,6 +589,11 @@ hash = "7167d442d5704438f8491ba69efa1c92d5719370bf63eea2c94ef4e12fbf6265"
 metafile = true
 
 [[files]]
+file = "mods/find.pw.toml"
+hash = "b9798e770a3103f847bf2f757b2bc3695575408bddda13abe53dfa549fcde56b"
+metafile = true
+
+[[files]]
 file = "mods/firorize.pw.toml"
 hash = "1906a586ad1aa651be6e1c256a53c65559859ca915d1233589cbfbc982896df3"
 metafile = true
@@ -625,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "5727565795ed5d800b9211b1a5a8ff70ac7e49a3b13cf5958172a76033f82091"
+hash = "365d4b8095eb65852f59a61aabcd88cda97548be24e4945becb80db946bca4f4"
 metafile = true
 
 [[files]]
@@ -709,6 +714,11 @@ hash = "4772d2d7620cb1f60562d9b139bdec190d80ab1aba55da31b9fb2351858d43ec"
 metafile = true
 
 [[files]]
+file = "mods/libjf.pw.toml"
+hash = "10d2cb5f575d0c290549758cafe0e3b15acbca8c5163aa4209cbe4fb8fcb7de5"
+metafile = true
+
+[[files]]
 file = "mods/linkart.pw.toml"
 hash = "be2db8467f4f687c1599966a29708ceb22ae805990dc4ee6068034e45a936507"
 metafile = true
@@ -765,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "938672cf915b5598113088726f9214340a870fa85916a2576c6a7f03472362ec"
+hash = "e44fa769c7a8f41c34eb8519adc9ea21927cdf230bc993bb7ee538aa87b22dc8"
 metafile = true
 
 [[files]]
@@ -894,6 +904,11 @@ hash = "22fb431a61fa268510bbe07fb9c6ee9e92a880fd88e9309c438254cf582a1cad"
 metafile = true
 
 [[files]]
+file = "mods/respackopts.pw.toml"
+hash = "6891f1e1b0b0fd3650023b8e984447f7e0a3e1488a203fec0cdfd201a9a59ee7"
+metafile = true
+
+[[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "ea10b64e72890a0b0fac51f24c33c33ecee7e1fbe4c5d1ce7df053f65c004ba9"
 metafile = true
@@ -941,6 +956,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "14fee1cdae5aa6ea35cc1ed977395f513d13a5d625e481ba7aec5982cad00c4d"
+metafile = true
+
+[[files]]
+file = "mods/skinshuffle.pw.toml"
+hash = "358ddfbe575dc18bfc25ea1471304a8ffd33be4dc58534b15e35e1487da80f75"
 metafile = true
 
 [[files]]
@@ -1095,12 +1115,12 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "8ee38d66010c58e3709c3479951544ad00ad753506368e67d62874bdd473b52b"
+hash = "08ed5df9dda55ce54c12a068f07715360418b26aa076a17e4425befcc6c9c6b5"
 metafile = true
 
 [[files]]
 file = "mods/yungs-menu-tweaks.pw.toml"
-hash = "dfc1973cd942264d2a0be69a73887c65bb9b7767443397f808c67dab531a6f24"
+hash = "63fa83bdcd46369c05eb0005491821336b106254c2bf9a5eba7f81deef4e7ce1"
 metafile = true
 
 [[files]]
@@ -1114,7 +1134,7 @@ hash = "fe0c296b406a9c1f76405eb88f10713eb40e571caeb8b7ea2eeab5926e2d79a1"
 
 [[files]]
 file = "mods_faltando_121.txt"
-hash = "a04ef729f43e7d4f5734b68cbf0e0f3db5de58808ffc9ba405e8b914bf5280e9"
+hash = "638afbf9043dabcb50b82c58dd92ce0ee2d55b4f230e6410a653d8d588298c03"
 
 [[files]]
 file = "mods_server.txt"

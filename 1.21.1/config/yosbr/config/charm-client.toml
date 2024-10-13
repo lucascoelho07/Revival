@@ -1,3 +1,24 @@
+[CompassesShowPosition]
+	#Shows cardinal directions, XYZ coordinates and current biome when holding a compass.
+	Enabled = true
+	#If true, shows the cardinal direction that the player is facing.
+	Facing = true
+	#If true, shows the player's XYZ coordinates.
+	Co-ordinates = true
+	#If true, shows the player's biome.
+	Biome = true
+	#If true, only show the player's X and Z coordinates (not their height/depth).
+	"Only show X and Z" = false
+	#If true, only show the compass overlay if the player is sneaking.
+	"Show when sneaking" = false
+	#If true, the overlay will always be shown even if the player is not holding a compass.
+	"Always show" = false
+	#If true, the overlay will be shown in smaller text and in top left of the screen.
+	"Compact view" = false
+
+[DiscsStopBackgroundMusic]
+	#Playing a music disc in a jukebox prevents background music from playing at the same time.
+	Enabled = true
 
 [MobTextures]
 	#Mobs may spawn with different textures.
@@ -36,4 +57,3 @@
 	Maps = true
 	#If true, the contents of a shulker box will be shown when hovering over the item.
 	"Shulker boxes" = false
-
