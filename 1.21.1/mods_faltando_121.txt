@@ -2,15 +2,13 @@ Bedspreads
 Better Trim Tooltips
 Boat Item View
 Companion 🐕
-Container Search
-Cull Less Leaves > Sodium Leaf Culling
 DashLoader
 Distracting Trims
+Double Hotbar
 Draggable Lists
 Drip Sounds (Fabric)
 Emotecraft
 Fabrication & Forgery
-Find - Search For Items
 Fix Keyboard on Linux
 Horse Stats Vanilla
 Inventorio
@@ -21,7 +19,6 @@ Path Under Fence Gates
 ResolutionControl+
 Screenshot Viewer
 Smooth Swapping
-
 Sushi Bar
 Tool Stats
 VanillaTweaks
@@ -104,3 +101,6 @@ Nightosphere > Amplified Nether
 No Lava Pockets
 Respackopts
 Skin Shuffle
+RyoamicLights > Sodium Dynamic Lights
+Sodium Leaf Culling
+Container Search > Find - Search For Items

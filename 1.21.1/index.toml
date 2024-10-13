@@ -370,8 +370,9 @@ hash = "940a2b041534233ff796bf38277c4fac4b6a5ff725aa4d64bfc93986af285013"
 metafile = true
 
 [[files]]
-file = "mods/charm-fabric-1.21-7.0.34.jar.disabled"
-hash = "ca8970c822c79ed307bff4118d7f09b5414d3ab09bd9c1cd606e4dbd079b809d"
+file = "mods/charm-forked.pw.toml"
+hash = "7896337fa3f6b4b812290c7a92c80f154f46831f3c4cbe81d03a3c6690bc49cf"
+metafile = true
 
 [[files]]
 file = "mods/charmonium.pw.toml"
@@ -909,11 +910,6 @@ hash = "6891f1e1b0b0fd3650023b8e984447f7e0a3e1488a203fec0cdfd201a9a59ee7"
 metafile = true
 
 [[files]]
-file = "mods/ryoamiclights.pw.toml"
-hash = "ea10b64e72890a0b0fac51f24c33c33ecee7e1fbe4c5d1ce7df053f65c004ba9"
-metafile = true
-
-[[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
 hash = "714b51737afe241ed0251847a26679c3ffda821ef643a3675b2539a63818eafc"
 metafile = true
@@ -979,8 +975,18 @@ hash = "42ea1b1d6297b30e00d5f8af87e8c91cff84856ccf068b18bcbb8a47fe14f7f3"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "d576cf1f4e82d24406731798e73b4caa01178ad125b2bbf20895a259abd204a4"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "7797b3e10400ef30c32c5ecdc028a81a382a6a809f6166f9d11a6e1a3f4b5adb"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "159b23ed96f9a6b4faf6b835993dc7ee3f2817119a0bb1af8ca2ec03a0efaf00"
 metafile = true
 
 [[files]]
@@ -991,6 +997,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "ece36a60c9afd8cbbe422a0fd72b11873d52eb87702cbfa5bc19cb5c44366398"
+metafile = true
+
+[[files]]
+file = "mods/sodiumleafculling.pw.toml"
+hash = "d05681b90cd9cf8b424ca4cd295eecbdbfcadf9fd2fc1af612228127fce7a2b6"
 metafile = true
 
 [[files]]
@@ -1134,7 +1145,7 @@ hash = "fe0c296b406a9c1f76405eb88f10713eb40e571caeb8b7ea2eeab5926e2d79a1"
 
 [[files]]
 file = "mods_faltando_121.txt"
-hash = "638afbf9043dabcb50b82c58dd92ce0ee2d55b4f230e6410a653d8d588298c03"
+hash = "e309e7a01832a2723ec1daea0a14b24cbd4baa1fdcd6c72bd12e6135983778c3"
 
 [[files]]
 file = "mods_server.txt"
