@@ -1,13 +1,13 @@
 name = "Friends&Foes (Fabric/Quilt)"
-filename = "friendsandfoes-fabric-mc1.21.1-3.0.4.jar"
+filename = "friendsandfoes-fabric-mc1.21.1-3.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/POQ2i9zu/versions/EhZRdHtd/friendsandfoes-fabric-mc1.21.1-3.0.4.jar"
+url = "https://cdn.modrinth.com/data/POQ2i9zu/versions/eUncYB8D/friendsandfoes-fabric-mc1.21.1-3.0.5.jar"
 hash-format = "sha512"
-hash = "0970c3bab0fcb1f5e8c6727653335425ef7bfbd6efaff730915e6a80cc45561517ac70eff5d926eb9b0d1055b1f3317545e6154f8a6526eef90694ab17e443c1"
+hash = "e7e087f47e8f7d127f8f9c3be84cf9e59897bd7ed78256dc116c641435718c96b81be8d42312dc7551a1b6fb9e54c4e069dfcc86fa54f47fe336c4ba9cabf1e8"
 
 [update]
 [update.modrinth]
 mod-id = "POQ2i9zu"
-version = "EhZRdHtd"
+version = "eUncYB8D"
