@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".mods_faltando_121.txt.swp"
+hash = "73de95b1ae55fd88ef35880755f08734e730269b2901b172089d5f4c181f1456"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "a219f999c6215230ae607cc6196acd89a59299cf6132210add7e301683582b5a"
 
@@ -482,6 +486,11 @@ metafile = true
 [[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "1df56bcfc5b82fc0097c46bcddc45513ef3282ca80caabc8b2c4ea983e2ce175"
+metafile = true
+
+[[files]]
+file = "mods/double-hotbar.pw.toml"
+hash = "9d22f7e4260e2a9877b4a1afd1e14a2ef77389238dd1f1469134816528bb36ab"
 metafile = true
 
 [[files]]

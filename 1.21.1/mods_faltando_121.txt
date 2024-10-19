@@ -4,7 +4,6 @@ Boat Item View
 Companion 🐕
 DashLoader
 Distracting Trims
-Double Hotbar
 Draggable Lists
 Drip Sounds (Fabric)
 Emotecraft
@@ -104,3 +103,4 @@ Skin Shuffle
 RyoamicLights > Sodium Dynamic Lights
 Sodium Leaf Culling
 Container Search > Find - Search For Items
+	Double Hotbar
